@@ -3,10 +3,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Reflection;
 
 
-namespace Tests
+namespace UserController_test
 {
     [TestClass]
-    public class UnitTest1
+    public class GetUserByType_test
     {
         [TestMethod]
         public void TestMethod1()
